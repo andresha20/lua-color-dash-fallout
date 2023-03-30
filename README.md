@@ -1,9 +1,6 @@
 # lua-color-dash-fallout
 This is a minigame created for MTA. 
 
-# lua-golf-battle
-Golf-based minigame developed on LUA.
-
 # PREVIEW
 
 - https://www.youtube.com/watch?v=npo8BghdFZ8
